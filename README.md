@@ -52,3 +52,11 @@ Three exploratory plots precede the regression: happiness by employment type (ba
 
 ---
 *Authors: Alexis Ortiz, Luke Lisi, Victor Sainz*
+
+
+<img width="500" height="300" alt="Hours Worked and Probability of Being Very Happy" src="https://github.com/user-attachments/assets/17996f87-cdb1-461f-b5c2-9d0bc7a6cc54" />
+
+
+<img width="500" height="300" alt="employment_typeandhappiness" src="https://github.com/user-attachments/assets/32cfb28f-a705-47e7-9441-12984dfd1cdd" />
+
+
