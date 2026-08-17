@@ -2,6 +2,10 @@
 
 An econometric investigation of how employment type, hours worked, and income relate to self-reported happiness, using General Social Survey (GSS) data.
 
+<img width="500" height="300" alt="Hours Worked and Probability of Being Very Happy" src="https://github.com/user-attachments/assets/17996f87-cdb1-461f-b5c2-9d0bc7a6cc54" />
+
+*Hours worked affects happiness differently by gender — the diverging slopes justified adding an interaction term to the regression model.*
+
 ## Research Question
 
 How does happiness — measured as a nonmonetary, self-reported outcome — respond to work-related characteristics? Specifically: does being self-employed, working more hours, or earning more income predict a higher probability of reporting being "very happy"?
@@ -37,7 +41,14 @@ How does happiness — measured as a nonmonetary, self-reported outcome — resp
 
 ## Visualizations
 
-Three exploratory plots precede the regression: happiness by employment type (bar chart), happiness vs. hours worked by gender (locally smoothed), and happiness vs. income by employment type — each used to justify a modeling decision (e.g., the interaction term).
+<img width="500" height="300" alt="employment_typeandhappiness" src="https://github.com/user-attachments/assets/32cfb28f-a705-47e7-9441-12984dfd1cdd" />
+
+<img width="500" height="300" alt="Income and Probability of Being Very" src="https://github.com/user-attachments/assets/1677392d-e32f-485c-9a3b-65dd0795ad3f" />
+
+
+*Self-employed respondents report a higher probability of being very happy than those employed by others.*
+
+Three exploratory plots precede the regression: happiness by employment type (bar chart, above), happiness vs. hours worked by gender (locally smoothed, top of page), and happiness vs. income by employment type — each used to justify a modeling decision (e.g., the interaction term).
 
 ## Limitations
 
@@ -52,11 +63,4 @@ Three exploratory plots precede the regression: happiness by employment type (ba
 
 ---
 *Authors: Alexis Ortiz, Luke Lisi, Victor Sainz*
-
-
-<img width="500" height="300" alt="Hours Worked and Probability of Being Very Happy" src="https://github.com/user-attachments/assets/17996f87-cdb1-461f-b5c2-9d0bc7a6cc54" />
-
-
-<img width="500" height="300" alt="employment_typeandhappiness" src="https://github.com/user-attachments/assets/32cfb28f-a705-47e7-9441-12984dfd1cdd" />
-
 
